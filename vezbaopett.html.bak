@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vezba</title>
+        <style>
+            h1, h3 {text-align: center;}
+            p {text-align: justify;  padding-left: 35px;padding-right: 35px;}
+            div {text-align: center;}
+            </style>
+    </head>
+<body>
+    
+    <h1>Nikac od Rovina</h1>
+    <h3>(Београд, 11. јул 1844 — Београд, 16. август 1921)</h3>
+
+    <p>Nikac od Rovina (izmedju 1720. i 1776. godine) je bio vitez Srbije i Crne Gore.</p>
+    <p>Želeći da potčini Crnu Goru sultanovoj vlasti i da natjera Srbe na plaćanje harača, Osman-paša, čehaja bosanskog vezira u jesen 1756. godine napada Crnu Goru sa tri strane iz pravca Nikšića, Grahova i Podgorice.</p>
+    <img src="https://lh3.googleusercontent.com/proxy/1H-991o2o2vwWTzHc5Sas43uuhPsDE6laoqoBEpNLZ9t9vphHJSibk0ilKO00I6s7XTsbmE2UPgoYkFfUEI" style="padding-left: 35px">
+    <p> Sa glavninom svoje vojske prodire na Čevo, gdje se sastaje sa vojskama koje su krenule iz Grahova i Podgorice. Crnogorci su vodili žestoku bitku sve dok nije palo Čevo, tada je vladika Vasilije pao u očajanje. </p>
+    <p>Predao je komandu njeguškom vojvodi, te se uz pomoć kaluđera Teodosija Markovića, prebacio se u Primorje a odatle u Senjsku Rijeku.</p>
+    <p>Kada je izgledalo da nema više spasa, Nikac je okupio četrdeset ljudi, i sa njima upao u centar neprijateljskog logora. Prethodno se dogovorio sa serdarom Đikanom, da kada upadnu u logor, on privuče vojsku Stažerskome dolu. </p>
+    <p> Pozvao je Arslan-agu Zvizdića da javi paši da mu dolaze 40 ljudi koji žele da se poklone. </p>
+    <P>Turska vojska je pustila Nikca sa ljudima u logor, prateći ih do pašinog šatora. Kada su se približili šatoru povadili su kubure i napali Turke. </P>
+    <p>Nikac je tom prilikom lično ubio Osman-pašu.</p>
+
+</body>
+</html>
